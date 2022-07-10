@@ -2,10 +2,23 @@ body {
 color: rgb(211, 146, 241);
 background-color: black;
 font-size: medium;
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
 color: orange;
 background-color: black;
+text-align: center;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    border: 2px solid orange;
 }
