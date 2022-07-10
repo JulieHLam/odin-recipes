@@ -1,0 +1,1 @@
+Small compilation of my favorite air fryer recipes. Done as a tutorial project for The Odin Project.
